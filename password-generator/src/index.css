@@ -1,0 +1,40 @@
+.main-container {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50% , -50%);
+}
+
+#password {
+  height: 40px;
+  width: 560px;
+  border: none;
+  background-color: #cbd5e1;
+  border-radius: 12px;
+}
+
+button{
+  margin-left: 18px;
+  height: 40px;
+  width: 70px;
+  background-color: #0070f6;
+  border: none;
+  font-family: cursive;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: large;
+  color:white;
+  
+}
+
+button:hover{
+  transform: scale(1.1);  
+}
+
+label{
+  font-weight: 600;
+  font-size: large;
+  font-family: cursive;
+
+}
+
